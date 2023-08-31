@@ -1,0 +1,50 @@
+
+.logo{
+ width: 100%;
+ height:70px;
+ display:flex;
+ justify-content:center;    
+ padding:0;
+}
+
+.logo__container{
+    width: 270px;
+    height: 70px;
+    background-color:gray;
+    margin-top:34px;
+    margin-right:0;
+}
+
+.vector-vertical{
+    width:2px;
+    height:26px;
+    margin-top:6px;
+    margin-left:calc(129px - 2px);
+    position:absolute;
+    z-index:2;
+}
+
+.vector-horizontal{
+    width:32px;
+    height:2px;
+    margin-top:6px;
+    margin-left:118px;
+    position:absolute;
+    z-index:2;
+}
+
+.vector-square{
+    margin-left:118px;
+    margin-right:120px;
+    margin-bottom:38px;
+    position:absolute;
+    z-index:1;
+}
+
+.vector-text{
+    width: 100%;
+    height:14.55px;
+    margin-top:54.45px;
+    background-color:brown;
+    z-index:2;
+}
