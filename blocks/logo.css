@@ -1,18 +1,7 @@
-
 .logo{
- width: 100%;
- height:70px;
- display:flex;
- justify-content:center;    
- padding:0;
-}
-
-.logo__container{
     width: 270px;
     height: 70px;
-    background-color:gray;
     margin-top:34px;
-    margin-right:0;
 }
 
 .vector-vertical{
@@ -34,6 +23,8 @@
 }
 
 .vector-square{
+    width:32px;
+    height:32px;
     margin-left:118px;
     margin-right:120px;
     margin-bottom:38px;
@@ -43,8 +34,265 @@
 
 .vector-text{
     width: 100%;
+    z-index:2;
+    display:flex;
+}
+
+.vector-text__p{
+    margin-right:1.45px;
+    width:11.68px;
     height:14.55px;
     margin-top:54.45px;
-    background-color:brown;
-    z-index:2;
+}
+.vector-text__pr{
+    margin-right:0.72px;
+    width:12.16px;
+    height:14.55px;
+    margin-top:54.45px;
+}
+.vector-text__pra{
+    margin-right:0.66px;
+    width:15px;
+    height:14.55px;
+    margin-top:54.45px;
+}
+.vector-text__prac{
+    margin-right:1.39px;
+    width: 13.64px;
+    height: 15.2px;
+    margin-top:54.3px;
+}
+.vector-text__pract{
+    margin-right:1.49px;
+    width: 13.64px;
+    height: 14.55px;
+    margin-top:54.45px;
+}
+.vector-text__practi{
+    margin-right:1.81px;
+    width: 3.95px;
+    height: 14.55px;
+    margin-top:54.45px;
+}
+.vector-text__practic{
+    margin-right:1.79px;
+    width: 13.64px;
+    height: 15.2px;
+    margin-top:54.3px;
+}
+.vector-text__practicu{
+    margin-right:1.88px;
+    width: 12.56px;
+    height: 15.2px;
+    margin-top:54.4px;
+}
+.vector-text__practicum{
+    margin-right:5.37px;
+    width: 16.76px;
+    height: 14.55px;
+    margin-top:54.45px;
+}
+.vector-text__a{
+    margin-right:1.4px;
+    width: 15px;
+    height: 14.55px;
+    margin-top:54.45px;
+}
+.vector-text__ar{
+    margin-right:0.8px;
+    width: 12.16px;
+    height: 14.55px;
+    margin-top:54.45px;
+}
+.vector-text__art{
+    margin-right:5.41px;
+    width: 12.64px;
+    height: 14.55px;
+    margin-top:54.45px;
+}
+.vector-text__g{
+    margin-right:0.71px;
+    width: 13.67px;
+    height: 15px;
+    margin-top:54.7px;
+}
+.vector-text__ga{
+    margin-right:1.4px;
+    width: 15px;
+    height: 14.55px;
+    margin-top:54.45px;
+}
+.vector-text__gal{
+    margin-right:1.6px;
+    width: 9.83px;
+    height: 14.55px;
+    margin-top:54.45px;
+}
+.vector-text__gall{
+    margin-right:1.6px;
+    width: 9.83px;
+    height: 14.55px;
+    margin-top:54.45px;
+}
+.vector-text__galle{
+    margin-right:1.96px;
+    width: 10.48px;
+    height: 14.55px;
+    margin-top:54.45px;
+}
+.vector-text__galler{
+    margin-right:0px;
+    width: 12.16px;
+    height: 14.55px;
+    margin-top:54.45px;
+}
+.vector-text__gallery{
+    margin-right:0;
+    width: 14.6px;
+    height: 14.55px;
+    margin-top:54.45px;
+}
+
+@media screen and (max-width:320px){
+    .logo{
+        width:200px;
+        height:51.85px;
+    }
+    .vector-square{
+        width:23.7px;
+        height:23.7px;
+        margin-left:87.41px;
+        margin-right:88.89px;
+        margin-bottom:28.15px;
+        margin-top:0;
+
+    }
+    .vector-horizontal{
+        width: 23.7px;
+        height: 1.48px;
+        margin-left:23.7px;
+        margin: 4.44px 88.89px 45.43px 87.41px;
+
+    }
+    .vector-vertical{
+        width: 1.48px;
+        height: 19.26px;
+        margin: 4.44px 102.96px 28.15px 95.56px;
+
+    }
+    .vector-text__p{
+        margin: 40.34px 1.07px 0.74px 0.24px;
+        width:8.65px;
+        height:10.77px;
+        
+    }
+    .vector-text__pr{
+        margin-right:0.53px;
+        margin-top:40.34px;
+        width: 9.01px;
+        height: 10.77px;
+    }
+    .vector-text__pra{
+        margin-right:0.49px;
+        margin-top:40.34px;
+        width: 11.11px;
+        height: 10.77px;
+    }
+    .vector-text__prac{
+        margin-right:1.03px;
+        margin-top:40.30px;
+        width: 10.1px;
+        height: 12.07px;
+    }
+    .vector-text__pract{
+        margin-right:1.1px;
+        width: 9.36px;
+        height: 10.77px;
+        margin-top:40.34px;
+    }
+    .vector-text__practi{
+        margin-right:1.34px;
+        margin-top:40.34px;
+        width: 2.93px;
+        height: 10.77px;
+    }
+    .vector-text__practic{
+        margin-right:1.33px;
+        margin-top:40.30px;
+        width: 10.1px;
+        height: 12.07px;
+    }
+    .vector-text__practicu{
+        margin-right:1.39px;
+        margin-top:40.30px;
+        width: 9.3px;
+        height: 11.9px;
+    }
+    .vector-text__practicum{
+        margin-right:3.98px;
+        margin-top:40.34px;
+        width: 12.42px;
+        height: 10.77px;
+    }
+    .vector-text__a{
+        margin-right:1.04px;
+        margin-top:40.34px;
+        width: 11.11px;
+        height: 10.77px;
+    }
+    .vector-text__ar{
+        margin-right:0.59px;
+        margin-top:40.34px;
+        width: 9.01px;
+        height: 10.77px;
+    }
+    .vector-text__art{
+        margin-right:4.01px;
+        margin-top:40.34px;
+        width: 9.36px;
+        height: 10.77px;
+    }
+    .vector-text__g{
+        margin-right:0.67px;
+        margin-top:40.49px;
+        width: 10.12px;
+        height: 11.07px;
+    }
+    .vector-text__ga{
+        margin-right:1.04px;
+        margin-top:40.34px;
+        width: 11.11px;
+        height: 10.77px;
+    }
+    .vector-text__gal{
+        margin-right:1.18px;
+        margin-top:40.34px;
+        width: 7.28px;
+        height: 10.77px;
+    }
+    .vector-text__gall{
+        margin-right:1.18px;
+        margin-top:40.34px;
+        width: 7.28px;
+        height: 10.77px;
+    }
+    .vector-text__galle{
+        margin-right:1.45px;
+        margin-top:40.34px;
+        width: 7.76px;
+        height: 10.77px;
+    }
+    .vector-text__galler{
+        margin-top:40.34px;
+        width: 9.01px;
+        height: 10.77px;
+    }
+    .vector-text__gallery{
+        margin-top:40.34px;
+        width: 10.82px;
+        height: 10.77px;
+        margin-right:0.74px;
+    }
+
+
 }
