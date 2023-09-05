@@ -4,19 +4,20 @@
     background-color:#2a2c2f;
     z-index:-1;
     display:flex;
-    justify-content:center;
+    align-items:center;
+    flex-direction:column;
     margin:0;
 }
 
-@media screen and (min-width:321px) and (max-width:767px){
+@media screen and (min-width:540.01px) and (max-width:1001px){
     .page{
         background-color:aqua;
     }
 }
 
-@media screen and (max-width:320px){
+@media screen and (min-width:320px) and (max-width:540){
     .page{
-        background-color:blue;
+        background-color:gray;
     }
     
 }
