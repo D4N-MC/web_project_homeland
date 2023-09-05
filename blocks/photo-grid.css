@@ -1,0 +1,42 @@
+.photo-grid{
+    width: 1184px;
+    height: 442px;
+    margin-top:92px;
+    border: red solid 0.5px;
+    display:grid;
+    grid-template-columns:23.98% 23.98% 23.98% 23.98%;
+    grid-template-rows:48% 48%;
+    grid-gap:16px;
+}
+
+.photo-grid__1{
+
+}
+
+.photo-grid__2{
+
+}
+
+.photo-grid__3{
+
+}
+
+.photo-grid__4{
+
+}
+
+.photo-grid__5{
+
+}
+
+.photo-grid__6{
+
+}
+
+.photo-grid__7{
+
+}
+
+.photo-grid__8{
+
+}

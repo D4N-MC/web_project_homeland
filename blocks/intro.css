@@ -2,7 +2,6 @@
     width: 1017px;
     height: 516px;
     margin-top:92px;
-
 }
 
 .intro__title{
@@ -13,6 +12,7 @@
     font-size:54px;
     Line-height:58px;
     color: #FFFFFF;
+    margin:0;
 }
 
 .intro__quote{
@@ -49,5 +49,4 @@
     line-height:26.08px;
     color: #FFFFFF;
     margin-top:32px;
-
 }
