@@ -2,7 +2,6 @@
     width: 1184px;
     height: 442px;
     margin-top:92px;
-    border: red solid 0.5px;
     display:grid;
     grid-template-columns:23.98% 23.98% 23.98% 23.98%;
     grid-template-rows:48% 48%;

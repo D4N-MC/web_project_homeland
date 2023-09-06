@@ -1,7 +1,6 @@
 .places{
 width: 987px;
 height: 4098px;
-border:red solid 0.5px;
 margin-top:92px;
 }
 
@@ -9,7 +8,6 @@ margin-top:92px;
     width: 984px;
     height: 756px;
     margin:0;
-    border:red solid 0.5px;
     flex-wrap:wrap;
 }
 
@@ -17,28 +15,24 @@ margin-top:92px;
     width: 984px;
     height: 756px;
     margin-top:80px;
-    border:red solid 0.5px;
 }
 
 .places__city-berea{
     width: 984px;
     height: 725px;
     margin-top:35px;
-    border:red solid 0.5px;
 }
 
 .places__city-burundi{
     width: 984px;
     height: 859px;
     margin-top:80px;
-    border:red solid 0.5px;
 }
 
 .places__city-huanuco{
     width: 984px;
     height: 756px;
     margin-top:51px;
-    border:red solid 0.5px;
 }
 
 .places__city-title{
@@ -79,8 +73,7 @@ margin-top:92px;
     width: 456px;
     position:absolute;
     margin-left:500px;
-    margin-top:-45px;
-    border: red solid 0.5px;
+    margin-top:-60px;
 }
 
 .places__city-artista_logo{
@@ -113,7 +106,7 @@ margin-top:92px;
     height: 203px;
     position:absolute;
     margin-left:500px;
-    margin-top:-465px;
+    margin-top:-505px;
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
@@ -127,7 +120,7 @@ margin-top:92px;
     height: 232px;
     position:absolute;
     margin-left:500px;
-    margin-top:-237px;
+    margin-top:-277px;
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
@@ -141,7 +134,7 @@ margin-top:92px;
     height: 174px;
     position:absolute;
     margin-left:500px;
-    margin-top:-465px;
+    margin-top:-510px;
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
@@ -155,7 +148,7 @@ margin-top:92px;
     height: 261px;
     position:absolute;
     margin-left:500px;
-    margin-top:-237px;
+    margin-top:-287px;
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
@@ -169,7 +162,7 @@ margin-top:92px;
     height: 290px;
     position:absolute;
     margin-left:500px;
-    margin-top:-465px;
+    margin-top:-510px;
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
@@ -183,7 +176,7 @@ margin-top:92px;
     height: 203px;
     position:absolute;
     margin-left:500px;
-    margin-top:-158px;
+    margin-top:-200px;
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
@@ -197,7 +190,7 @@ margin-top:92px;
     height: 174px;
     position:absolute;
     margin-left:500px;
-    margin-top:-465px;
+    margin-top:-515px;
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
@@ -211,7 +204,7 @@ margin-top:92px;
     height: 203px;
     position:absolute;
     margin-left:500px;
-    margin-top:-266px;
+    margin-top:-316px;
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
@@ -225,7 +218,7 @@ margin-top:92px;
     height: 232px;
     position:absolute;
     margin-left:500px;
-    margin-top:-38px;
+    margin-top:-80px;
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
@@ -239,7 +232,7 @@ margin-top:92px;
     height: 203px;
     position:absolute;
     margin-left:500px;
-    margin-top:-465px;
+    margin-top:-515px;
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
@@ -252,7 +245,7 @@ margin-top:92px;
     height: 232px;
     position:absolute;
     margin-left:500px;
-    margin-top:-267px;
+    margin-top:-307px;
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
