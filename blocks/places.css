@@ -10,6 +10,7 @@ margin-top:92px;
     height: 756px;
     margin:0;
     border:red solid 0.5px;
+    flex-wrap:wrap;
 }
 
 .places__city-gales{
@@ -42,6 +43,7 @@ margin-top:92px;
 
 .places__city-title{
     width:460px;
+    height: 152px;
     margin:0;
     font-family:Inter;
     font-weight:900;
@@ -51,7 +53,37 @@ margin-top:92px;
 
 }
 
+.places__city-title_gales{
+    width:484px;
+    height: 152px;
+    margin:0;
+    font-family:Inter;
+    font-weight:900;
+    font-size:72px;
+    line-height:76px;
+    color:white;
+}
+
+.places__city-title_berea{
+    width:584px;
+    height: 152px;
+    margin:0;
+    font-family:Inter;
+    font-weight:900;
+    font-size:72px;
+    line-height:76px;
+    color:white;
+}
+
 .places__city-artista{
+    width: 456px;
+    position:absolute;
+    margin-left:500px;
+    margin-top:-45px;
+    border: red solid 0.5px;
+}
+
+.places__city-artista_logo{
     width: 58px;
     height: 15px;
     font-family: Inter;
@@ -61,55 +93,178 @@ margin-top:92px;
     letter-spacing: 0.12em;
     text-align: left;
     color: #AAAAAA;
-
-
-
+    margin-top:0;
+    margin-bottom:8;
 }
 
 .places__city-artista_nombre{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    color:white;
+    margin:0;
 
 }
 
 .places__city-texto_kiev{
+    width: 484px;
+    height: 203px;
+    position:absolute;
+    margin-left:500px;
+    margin-top:-465px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+    color:white;
 
 }
 
 .places__city-texto_kiev2{
+    width: 484px;
+    height: 232px;
+    position:absolute;
+    margin-left:500px;
+    margin-top:-237px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+    color:white;
 
 }
 
 .places__city-texto_gales{
+    width: 484px;
+    height: 174px;
+    position:absolute;
+    margin-left:500px;
+    margin-top:-465px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+    color:white;
 
 }
 
 .places__city-texto_gales2{
+    width: 484px;
+    height: 261px;
+    position:absolute;
+    margin-left:500px;
+    margin-top:-237px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+    color:white;
 
 }
 
 .places__city-texto_berea{
+    width: 484px;
+    height: 290px;
+    position:absolute;
+    margin-left:500px;
+    margin-top:-465px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+    color:white;
 
 }
 
 .places__city-texto_berea2{
+    width: 484px;
+    height: 203px;
+    position:absolute;
+    margin-left:500px;
+    margin-top:-158px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+    color:white;
 
 }
 
 .places__city-texto_burundi{
+    width: 484px;
+    height: 174px;
+    position:absolute;
+    margin-left:500px;
+    margin-top:-465px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+    color:white;
 
 }
 
 .places__city-texto_burundi2{
+    width: 484px;
+    height: 203px;
+    position:absolute;
+    margin-left:500px;
+    margin-top:-266px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+    color:white;
 
 }
 
 .places__city-texto_burundi3{
+    width: 484px;
+    height: 232px;
+    position:absolute;
+    margin-left:500px;
+    margin-top:-38px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+    color:white;
 
+}
+
+.places__city-texto_huanuco{
+    width: 484px;
+    height: 203px;
+    position:absolute;
+    margin-left:500px;
+    margin-top:-465px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+    color:white;
+}
+
+.places__city-texto-huanuco2{
+    width: 484px;
+    height: 232px;
+    position:absolute;
+    margin-left:500px;
+    margin-top:-267px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+    color:white;
 }
 
 .places__city-image{
     width: 460px;
     height: 460px;
-     
+    margin-top:48px;
+    margin-bottom:48px;
 }
 
 .places__city-nft{
@@ -123,6 +278,6 @@ margin-top:92px;
     font-size:18px;
     line-height:2.6;
     color:white;
-
-
+    margin-top:0;
+    text-decoration:none;
 }
