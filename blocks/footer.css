@@ -6,3 +6,10 @@
     color:rgba(255, 255, 255, 1);
     margin-top:92px;
 }
+
+@media screen and (min-width:761px) and (max-width:1001px){
+    .footer__text{
+        margin-top:88px;
+        margin-bottom:24px;
+    }
+}

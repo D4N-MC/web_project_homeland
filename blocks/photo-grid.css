@@ -1,41 +1,133 @@
 .photo-grid{
-    width: 1184px;
+    width: 90%;
     height: 442px;
     margin-top:92px;
     display:grid;
-    grid-template-columns:23.98% 23.98% 23.98% 23.98%;
-    grid-template-rows:48% 48%;
+    grid-template-columns:repeat(4, 1fr);
+    grid-template-rows:repeat(2, 1fr);
     grid-gap:16px;
 }
 
 .photo-grid__1{
-
+    max-width: 100%;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    display: block;
 }
 
 .photo-grid__2{
+    max-width: 100%;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    display: block;
 
 }
 
 .photo-grid__3{
+    max-width: 100%;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    display: block;
 
 }
 
 .photo-grid__4{
-
+    max-width: 100%;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    display: block;
 }
 
 .photo-grid__5{
+    max-width: 100%;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    display: block;
 
 }
 
 .photo-grid__6{
-
+    max-width: 100%;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    display: block;
 }
 
 .photo-grid__7{
+    max-width: 100%;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    display: block;
 
 }
 
 .photo-grid__8{
+    max-width: 100%;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    display: block;
+
+}
+
+@media screen and (min-width:761px) and (max-width:1001px){
+    .photo-grid{
+        grid-template-columns:repeat(2, 1fr);
+        grid-template-rows:repeat(4, 1fr);
+        width: 80%;
+        height: 1104px;
+        margin-top:64px;
+    }
+    .photo-grid__1{
+        width:356px;
+        height: 254px;
+    }
+    
+    .photo-grid__2{
+        width:356px;
+        height: 254px;
+    
+    }
+    
+    .photo-grid__3{
+        width:356px;
+        height: 254px;
+    
+    }
+    
+    .photo-grid__4{
+        width:356px;
+        height: 254px;
+    }
+    
+    .photo-grid__5{
+        width:356px;
+        height: 254px;
+    }
+    
+    .photo-grid__6{
+        width:356px;
+        height: 254px;
+    }
+    
+    .photo-grid__7{
+        width:356px;
+        height: 254px;
+    
+    }
+    
+    .photo-grid__8{
+        width:356px;
+        height: 254px;
+    
+    }
+
 
 }
