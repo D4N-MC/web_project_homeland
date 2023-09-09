@@ -116,3 +116,48 @@
         height: 746px;
     }
 }
+@media screen and (min-width:200px) and (max-width:760.99px){
+    .visit-us{
+        width:calc(100vw - 15px);
+        height:254px;
+        background-size:cover;
+        object-fit:cover;
+    }
+
+    .overlay{
+        width: calc(100vw - 15px);
+        height:254px;
+    }
+    .visit-us__info{
+        width: 288px;
+        height: 163px;
+        margin:0;
+        display:flex;
+        flex-direction:column;
+        align-items:center;
+        z-index:2;
+    }
+    
+    .visit-us__info-title{
+        width: 288px;
+        height: 35px;
+        font-size: 32px;
+        line-height: 35px;
+        margin-bottom: 16px;
+    }
+    
+    .visit-us__info-top{
+        width:288px;
+        height:16px;
+        font-size: 14px;
+        line-height: 16px;
+        margin:0;
+    }
+    .visit-us__info-bottom{
+        width: 288px;
+        height:32px;
+        font-size: 14px;
+        line-height: 16px;
+        margin-bottom:16px;
+    }
+}

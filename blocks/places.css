@@ -494,3 +494,237 @@ margin-top:92px;
     }
 
 }
+@media screen and (min-width:200px) and (max-width:760.9px){
+    .places{
+        width:305px;
+        height:auto;
+        margin-top:62px;
+        display:flex;
+        align-items:center;
+        flex-direction:column;
+    }
+
+    .places__city-kiev{
+        width: 305px;
+        height: 1169px;
+        display:flex;
+        flex-direction:column;
+        align-items:center;
+    }
+    
+    .places__city-gales{
+        width: 305px;
+        height: 1209px;
+        margin-top:36px;
+        display:flex;
+        flex-direction:column;
+        align-items:center;
+    }
+    
+    .places__city-berea{
+        width: 305px;
+        height: 1186px;
+        margin-top:36px;
+        display:flex;
+        flex-direction:column;
+        align-items:center;
+    }
+    
+    .places__city-burundi{
+        width: 305px;
+        height: 1433px;
+        margin-top:17px;
+        display:flex;
+        flex-direction:column;
+        align-items:center;
+        margin-bottom:50px;
+    }
+    
+    .places__city-huanuco{
+        width: 305px;
+        height: auto;
+        margin-top:50px;
+        display:flex;
+        flex-direction:column;
+        align-items:center;
+    }
+    
+    .places__city-title{
+        width:288px;
+        height: 35px;
+        font-size:32px;
+        line-height:35px; 
+        margin-bottom:30px;  
+    }
+    
+    .places__city-title_gales{
+        width:288px;
+        height: 35px;
+        font-size:32px;
+        line-height:35px;
+        margin:0 0 30px 0;
+    }
+    
+    .places__city-title_berea{
+        width:288px;
+        height:35px;
+        font-size:32px;
+        line-height:35px;
+        margin-bottom:44px;
+    }
+    
+    .places__city-title_burundi{
+        width:288px;
+        height: 70px;
+        font-size:32px;
+        line-height:35px;
+        margin-bottom:30px;
+    }
+    
+    .places__city-artista{
+        width: 288px;
+        height: 67px;
+        position:relative;
+        display:flex;
+        margin:0 0 30px 0;
+        flex-direction:column;
+    }
+
+    .places__city-artistas{
+        width: 288px;
+        position:relative;
+        display:flex;
+        margin:0 0 30px 0;
+        flex-direction:column;
+    }   
+    
+    .places__city-texto_kiev{
+        width: 288px;
+        height: 286px;
+        font-size: 16px;
+        line-height: 26.08px;
+        position:relative;
+        display: flex;
+        margin:0 0 7px 0;
+    }
+    
+    .places__city-texto_kiev2{
+        width: 288px;
+        height: 338px;
+        font-size: 16px;
+        line-height: 26.08px;
+        position:relative;
+        display:flex;
+        margin:0 0 7px 0;
+    }
+    
+    .places__city-texto_gales{
+        width: 288px;
+        height: 260px;
+        font-size: 16px;
+        line-height: 26.08px;
+        margin:16px 0 0 0;
+        position:relative;
+        display:flex;
+    
+    }
+    
+    .places__city-texto_gales2{
+        width: 288px;
+        height: 364px;
+        font-size: 16px;
+        line-height: 26.08px;
+        position:relative;
+        display:flex;
+        margin:10px 0 7px 0;
+    
+    }
+    
+    .places__city-texto_berea{
+        width: 288px;
+        height: 390px;
+        font-size: 16px;
+        line-height: 26.08px;
+        position:relative;
+        display:flex;
+        margin:8px 0 0 0;
+    
+    }
+    
+    .places__city-texto_berea2{
+        width: 288px;
+        height: 260px;
+        font-size: 16px;
+        line-height:26.08px;
+        position:relative;
+        display:flex;
+        margin:0 0 6px 0;
+    }
+    
+    .places__city-texto_burundi{
+        width: 288px;
+        height: 234px;
+        font-size: 16px;
+        line-height: 26.08px;
+        position:relative;
+        display:flex;
+        margin:30px 0 0 0;
+    
+    }
+    
+    .places__city-texto_burundi2{
+        width:288px;
+        height: 260px;
+        font-size: 16px;
+        line-height: 26.08px;
+        position:relative;
+        display:flex;
+        margin:25px 0 0 0;
+    
+    }
+    
+    .places__city-texto_burundi3{
+        width: 288px;
+        height: 312px;
+        font-size: 16px;
+        line-height: 26.08px;
+        position:relative;
+        display:flex;
+        margin:25px 0 4px 0;
+    
+    }
+    
+    .places__city-texto_huanuco{
+        width: 288px;
+        height: 246px;
+        font-size: 16px;
+        line-height: 26.08px;
+        position:relative;
+        display: flex;
+        margin:15px 0 7px 0;
+    }
+    
+    .places__city-texto-huanuco2{
+        width: 288px;
+        height: 218px;
+        font-size: 16px;
+        line-height: 26.08px;
+        position:relative;
+        display:flex;
+        margin:0 0 7px 0;
+    }
+    
+    .places__city-image{
+        width: 305px;
+        height: 320px;
+        margin:0;
+        position:relative;
+        display:flex;
+    }
+    .places__city-nft{
+        width: 288px;
+        font-size:14px;
+        line-height:3.5;
+        margin-top:0;
+    }
+}
