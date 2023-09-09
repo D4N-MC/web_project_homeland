@@ -6,14 +6,12 @@
     color:rgba(255, 255, 255, 1);
     margin-top:92px;
 }
-
 @media screen and (min-width:761px) and (max-width:1001px){
     .footer__text{
         margin-top:88px;
         margin-bottom:24px;
     }
 }
-
 @media screen and (min-width:200px) and (max-width:760.9px){
     .footer__text{
         margin-top:64px;

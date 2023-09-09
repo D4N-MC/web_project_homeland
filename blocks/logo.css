@@ -165,26 +165,22 @@
         margin-right:88.89px;
         margin-bottom:28.15px;
         margin-top:0;
-
     }
     .vector-horizontal{
         width: 23.7px;
         height: 1.48px;
         margin-left:23.7px;
         margin: 4.44px 88.89px 45.43px 87.41px;
-
     }
     .vector-vertical{
         width: 1.48px;
         height: 19.26px;
         margin: 4.44px 102.96px 28.15px 95.56px;
-
     }
     .vector-text__p{
         margin: 40.34px 1.07px 0.74px 0.24px;
         width:8.65px;
         height:10.77px;
-        
     }
     .vector-text__pr{
         margin-right:0.53px;
@@ -293,6 +289,5 @@
         height: 10.77px;
         margin-right:0.74px;
     }
-
 
 }
