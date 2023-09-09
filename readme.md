@@ -8,3 +8,5 @@
 4. #### Luego lo ajuste para los demas tamaños de pantalla medianos (768px) y pequeños (320px).
 5. #### Siempre subí los cambios a mi repositorio con sus respectivas ramas para despues fusionarlas a la rama original main.
 6. #### Finalmente arregle pequeños errores y lo verificava con mi lista de control del proyecto.
+
+### Visita la pagina aquí: https://d4n-mc.github.io/web_project_homeland/
