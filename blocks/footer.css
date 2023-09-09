@@ -1,4 +1,4 @@
-.footer__text{
+.footer{
     font-family: Inter;
     font-size: 14px;
     font-weight: 400;
@@ -7,13 +7,13 @@
     margin-top:92px;
 }
 @media screen and (min-width:761px) and (max-width:1001px){
-    .footer__text{
+    .footer{
         margin-top:88px;
         margin-bottom:24px;
     }
 }
 @media screen and (min-width:200px) and (max-width:760.9px){
-    .footer__text{
+    .footer{
         margin-top:64px;
         margin-bottom:24px;
     }
