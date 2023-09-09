@@ -86,7 +86,7 @@ margin-top:92px;
     margin-top:-60px;
 }
 
-.artista-2{
+.artistas{
     width: 456px;
     position:absolute;
     margin-left:500px;
@@ -108,6 +108,30 @@ margin-top:92px;
 }
 
 .artista__nombre{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    color:white;
+    margin:0;
+}
+
+.artistas__logo{
+    width: 58px;
+    height: 15px;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0.12em;
+    text-align: left;
+    color: #AAAAAA;
+    margin-top:0;
+    margin-bottom:8px;
+}
+
+.artistas__nombre{
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
@@ -362,7 +386,7 @@ margin-top:92px;
         margin-top:-90px;
     }
 
-    .artista-2{
+    .artistas{
         width: 352px;
         position:absolute;
         margin-left:368px;
@@ -572,7 +596,7 @@ margin-top:92px;
         flex-direction:column;
     }
 
-    .artista-2{
+    .artistas{
         width: 288px;
         position:relative;
         display:flex;
