@@ -4,7 +4,7 @@ height: 4098px;
 margin-top:92px;
 }
 
-.places__city-kiev{
+.kiev{
     width: 984px;
     height: 756px;
     margin:0;
@@ -35,7 +35,7 @@ margin-top:92px;
     margin-top:51px;
 }
 
-.places__city-title{
+.title{
     width:460px;
     height: 152px;
     margin:0;
@@ -79,21 +79,21 @@ margin-top:92px;
     color:white;
 }
 
-.places__city-artista{
+.artista{
     width: 456px;
     position:absolute;
     margin-left:500px;
     margin-top:-60px;
 }
 
-.places__city-artistas{
+.artistas{
     width: 456px;
     position:absolute;
     margin-left:500px;
     margin-top:-60px;
 }
 
-.places__city-artista_logo{
+.artista__logo{
     width: 58px;
     height: 15px;
     font-family: Inter;
@@ -107,7 +107,7 @@ margin-top:92px;
     margin-bottom:8px;
 }
 
-.places__city-artista_nombre{
+.artista__nombre{
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
@@ -117,7 +117,7 @@ margin-top:92px;
     margin:0;
 }
 
-.places__city-texto_kiev{
+.kiev-texto{
     width: 484px;
     height: 203px;
     position:absolute;
@@ -130,7 +130,7 @@ margin-top:92px;
     color:white;
 }
 
-.places__city-texto_kiev2{
+.kiev-texto2{
     width: 484px;
     height: 232px;
     position:absolute;
@@ -260,14 +260,14 @@ margin-top:92px;
     color:white;
 }
 
-.places__city-image{
+.image{
     width: 460px;
     height: 460px;
     margin-top:48px;
     margin-bottom:48px;
 }
 
-.places__city-nft{
+.nft{
     width: 355px;
     height: 48px;
     background-color:#0278FE;
@@ -282,7 +282,7 @@ margin-top:92px;
     text-decoration:none;
 }
 
-.places__city-nft:hover{
+.nft:hover{
     background-color:#0063D2;
 }
 
@@ -293,7 +293,7 @@ margin-top:92px;
         margin-top:88px;
     }
 
-    .places__city-kiev{
+    .kiev{
         width: 720px;
         height: 600px;
     }
@@ -322,7 +322,7 @@ margin-top:92px;
         margin-top:41px;
     }
     
-    .places__city-title{
+    .title{
         width:340;
         height: 46px;
         font-size:42px;
@@ -355,21 +355,21 @@ margin-top:92px;
         margin-bottom:48px;
     }
     
-    .places__city-artista{
+    .artista{
         width: 352px;
         position:absolute;
         margin-left:368px;
         margin-top:-90px;
     }
 
-    .places__city-artistas{
+    .artistas{
         width: 352px;
         position:absolute;
         margin-left:368px;
         margin-top:-110px;
     }   
     
-    .places__city-texto_kiev{
+    .kiev-texto{
         width: 352px;
         height: 234px;
         margin-left:368px;
@@ -378,7 +378,7 @@ margin-top:92px;
         line-height: 27px;
     }
     
-    .places__city-texto_kiev2{
+    .kiev-texto2{
         width: 352px;
         height: 260px;
         margin-left:368px;
@@ -468,7 +468,7 @@ margin-top:92px;
         line-height: 27px;
     }
     
-    .places__city-image{
+    .image{
         width: 340px;
         height: 340px;
         margin-top:0px;
@@ -486,7 +486,7 @@ margin-top:92px;
         flex-direction:column;
     }
 
-    .places__city-kiev{
+    .kiev{
         width: 305px;
         height: 1169px;
         display:flex;
@@ -531,7 +531,7 @@ margin-top:92px;
         align-items:center;
     }
     
-    .places__city-title{
+    .title{
         width:288px;
         height: 35px;
         font-size:32px;
@@ -563,7 +563,7 @@ margin-top:92px;
         margin-bottom:30px;
     }
     
-    .places__city-artista{
+    .artista{
         width: 288px;
         height: 67px;
         position:relative;
@@ -572,7 +572,7 @@ margin-top:92px;
         flex-direction:column;
     }
 
-    .places__city-artistas{
+    .artistas{
         width: 288px;
         position:relative;
         display:flex;
@@ -580,7 +580,7 @@ margin-top:92px;
         flex-direction:column;
     }   
     
-    .places__city-texto_kiev{
+    .kiev-texto{
         width: 288px;
         height: 286px;
         font-size: 16px;
@@ -590,7 +590,7 @@ margin-top:92px;
         margin:0 0 7px 0;
     }
     
-    .places__city-texto_kiev2{
+    .kiev-texto2{
         width: 288px;
         height: 338px;
         font-size: 16px;
@@ -690,14 +690,14 @@ margin-top:92px;
         margin:0 0 7px 0;
     }
     
-    .places__city-image{
+    .image{
         width: 305px;
         height: 320px;
         margin:0;
         position:relative;
         display:flex;
     }
-    .places__city-nft{
+    .nft{
         width: 288px;
         font-size:14px;
         line-height:3.5;
