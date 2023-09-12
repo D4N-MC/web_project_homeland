@@ -9,30 +9,35 @@ margin-top:92px;
     height: 756px;
     margin:0;
     flex-wrap:wrap;
+    position:relative;
 }
 
 .gales{
     width: 984px;
     height: 756px;
     margin-top:80px;
+    position:relative;
 }
 
 .berea{
     width: 984px;
     height: 725px;
     margin-top:35px;
+    position:relative;
 }
 
 .burundi{
     width: 984px;
     height: 859px;
     margin-top:80px;
+    position:relative;
 }
 
 .huanuco{
     width: 984px;
     height: 756px;
     margin-top:51px;
+    position:relative;
 }
 
 .title{
@@ -82,15 +87,15 @@ margin-top:92px;
 .artista{
     width: 456px;
     position:absolute;
-    margin-left:500px;
-    margin-top:-60px;
+    left:500px;
+    top:95px;
 }
 
 .artistas{
     width: 456px;
     position:absolute;
-    margin-left:500px;
-    margin-top:-60px;
+    left:500px;
+    top:95px;
 }
 
 .artista__logo{
@@ -141,12 +146,12 @@ margin-top:92px;
     margin:0;
 }
 
-.kiev-texto{
+.kiev-top{
     width: 484px;
     height: 203px;
     position:absolute;
-    margin-left:500px;
-    margin-top:-505px;
+    left:500px;
+    top:180px;
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
@@ -154,12 +159,12 @@ margin-top:92px;
     color:white;
 }
 
-.kiev-texto2{
+.kiev-bottom{
     width: 484px;
     height: 232px;
     position:absolute;
-    margin-left:500px;
-    margin-top:-277px;
+    left:500px;
+    top:410px;
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
@@ -167,12 +172,12 @@ margin-top:92px;
     color:white;
 }
 
-.gales-texto{
+.gales-top{
     width: 484px;
     height: 174px;
     position:absolute;
-    margin-left:500px;
-    margin-top:-510px;
+    left:500px;
+    top:185px;
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
@@ -180,12 +185,12 @@ margin-top:92px;
     color:white;
 }
 
-.gales-texto2{
+.gales-bottom{
     width: 484px;
     height: 261px;
     position:absolute;
-    margin-left:500px;
-    margin-top:-287px;
+    left:500px;
+    top:405px;
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
@@ -193,12 +198,12 @@ margin-top:92px;
     color:white;
 }
 
-.berea-texto{
+.berea-top{
     width: 484px;
     height: 290px;
     position:absolute;
-    margin-left:500px;
-    margin-top:-510px;
+    left:500px;
+    top:185px;
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
@@ -206,12 +211,12 @@ margin-top:92px;
     color:white;
 }
 
-.berea-texto2{
+.berea-bottom{
     width: 484px;
     height: 203px;
     position:absolute;
-    margin-left:500px;
-    margin-top:-200px;
+    left:500px;
+    top:493px;
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
@@ -219,12 +224,12 @@ margin-top:92px;
     color:white;
 }
 
-.burundi-texto{
+.burundi-top{
     width: 484px;
     height: 174px;
     position:absolute;
-    margin-left:500px;
-    margin-top:-515px;
+    left:500px;
+    top:180px;
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
@@ -232,11 +237,11 @@ margin-top:92px;
     color:white;
 }
 
-.burundi-texto2{
+.burundi-mid{
     width: 484px;
     height: 203px;
     position:absolute;
-    margin-left:500px;
+    left:500px;
     margin-top:-316px;
     font-family: Inter;
     font-size: 18px;
@@ -245,12 +250,12 @@ margin-top:92px;
     color:white;
 }
 
-.burundi-texto3{
+.burundi-bottom{
     width: 484px;
     height: 232px;
     position:absolute;
-    margin-left:500px;
-    margin-top:-80px;
+    left:500px;
+    top:615px;
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
@@ -258,12 +263,12 @@ margin-top:92px;
     color:white;
 }
 
-.huanuco-texto{
+.huanuco-top{
     width: 484px;
     height: 203px;
     position:absolute;
-    margin-left:500px;
-    margin-top:-515px;
+    left:500px;
+    top:175px;
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
@@ -271,12 +276,12 @@ margin-top:92px;
     color:white;
 }
 
-.huanuco-texto2{
+.huanuco-bottom{
     width: 484px;
     height: 232px;
     position:absolute;
-    margin-left:500px;
-    margin-top:-307px;
+    left:500px;
+    top:380px;
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
@@ -382,112 +387,112 @@ margin-top:92px;
     .artista{
         width: 352px;
         position:absolute;
-        margin-left:368px;
-        margin-top:-90px;
+        left:368px;
+        top:10px;
     }
 
     .artistas{
         width: 352px;
         position:absolute;
-        margin-left:368px;
-        margin-top:-110px;
+        left:368px;
+        top:10px;
     }   
     
-    .kiev-texto{
+    .kiev-top{
         width: 352px;
         height: 234px;
-        margin-left:368px;
-        margin-top:-396px;
+        left:368px;
+        top:70px;
         font-size: 16px;
         line-height: 27px;
     }
     
-    .kiev-texto2{
+    .kiev-bottom{
         width: 352px;
         height: 260px;
-        margin-left:368px;
-        margin-top:-147px;
+        left:368px;
+        top:320px; 
         font-size: 16px;
         line-height: 27px;
     }
     
-    .gales-texto{
+    .gales-top{
         width: 352px;
         height: 208px;
-        margin-left:368px;
-        margin-top:-386px;
+        left:368px;
+        top:100px;
         font-size: 16px;
         line-height: 26.08px;
     }
     
-    .gales-texto2{
+    .gales-bottom{
         width: 352px;
         height: 260px;
-        margin-left:368px;
-        margin-top:-162px;
+        left:368px;
+        top:330px;
         font-size: 16px;
         line-height: 27px;
     }
     
-    .berea-texto{
+    .berea-top{
         width: 352px;
         height: 312px;
-        margin-left:368px;
-        margin-top:-396px;
+        left:368px;
+        top:70px;
         font-size: 16px;
         line-height: 27px;
     }
     
-    .berea-texto2{
+    .berea-bottom{
         width: 352px;
         height: 208px;
-        margin-left:368px;
-        margin-top:-61px;
+        left:368px;
+        top:400px;
         font-size: 16px;
         line-height: 27px;
     }
     
-    .burundi-texto{
+    .burundi-top{
         width: 352px;
         height: 208px;
-        margin-left:368px;
-        margin-top:-412px;
+        left:368px;
+        top:100px;
         font-size: 16px;
         line-height: 26.08px;
     }
     
-    .burundi-texto2{
+    .burundi-mid{
         width: 352px;
         height: 234px;
-        margin-left:368px;
-        margin-top:-195px;
+        left:368px;
+        top:650px;
         font-size: 16px;
         line-height: 26.08px;
     }
     
-    .burundi-texto3{
+    .burundi-bottom{
         width: 352px;
         height: 260px;
-        margin-left:368px;
-        margin-top:47px;
+        left:368px;
+        top:560px;
         font-size: 16px;
         line-height: 26.08px;
     }
     
-    .huanuco-texto{
+    .huanuco-top{
         width: 352px;
         height: 234px;
-        margin-left:368px;
-        margin-top:-396px;
+        left:368px;
+        top:70px;
         font-size: 16px;
         line-height: 27px;
     }
     
-    .huanuco-texto2{
+    .huanuco-bottom{
         width: 352px;
         height: 260px;
-        margin-left:368px;
-        margin-top:-147px;
+        left:368px;
+        top:300px;
         font-size: 16px;
         line-height: 27px;
     }
@@ -604,7 +609,7 @@ margin-top:92px;
         flex-direction:column;
     }   
     
-    .kiev-texto{
+    .kiev-top{
         width: 288px;
         height: 286px;
         font-size: 16px;
@@ -614,7 +619,7 @@ margin-top:92px;
         margin:0 0 7px 0;
     }
     
-    .kiev-texto2{
+    .kiev-bottom{
         width: 288px;
         height: 338px;
         font-size: 16px;
@@ -624,7 +629,7 @@ margin-top:92px;
         margin:0 0 7px 0;
     }
     
-    .gales-texto{
+    .gales-top{
         width: 288px;
         height: 260px;
         font-size: 16px;
@@ -634,7 +639,7 @@ margin-top:92px;
         display:flex;
     }
     
-    .gales-texto2{
+    .gales-bottom{
         width: 288px;
         height: 364px;
         font-size: 16px;
@@ -644,7 +649,7 @@ margin-top:92px;
         margin:10px 0 7px 0;
     }
     
-    .berea-texto{
+    .berea-top{
         width: 288px;
         height: 390px;
         font-size: 16px;
@@ -654,7 +659,7 @@ margin-top:92px;
         margin:8px 0 0 0;
     }
     
-    .berea-texto2{
+    .berea-bottom{
         width: 288px;
         height: 260px;
         font-size: 16px;
@@ -664,7 +669,7 @@ margin-top:92px;
         margin:0 0 6px 0;
     }
     
-    .burundi-texto{
+    .burundi-top{
         width: 288px;
         height: 234px;
         font-size: 16px;
@@ -674,7 +679,7 @@ margin-top:92px;
         margin:30px 0 0 0;
     }
     
-    .burundi-texto2{
+    .burundi-mid{
         width:288px;
         height: 260px;
         font-size: 16px;
@@ -684,7 +689,7 @@ margin-top:92px;
         margin:25px 0 0 0;
     }
     
-    .burundi-texto3{
+    .burundi-bottom{
         width: 288px;
         height: 312px;
         font-size: 16px;
@@ -694,7 +699,7 @@ margin-top:92px;
         margin:25px 0 4px 0;
     }
     
-    .huanuco-texto{
+    .huanuco-top{
         width: 288px;
         height: 246px;
         font-size: 16px;
@@ -704,7 +709,7 @@ margin-top:92px;
         margin:15px 0 7px 0;
     }
     
-    .huanuco-texto2{
+    .huanuco-bottom{
         width: 288px;
         height: 218px;
         font-size: 16px;
