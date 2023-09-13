@@ -465,7 +465,7 @@ margin-top:92px;
         width: 352px;
         height: 234px;
         left:368px;
-        top:650px;
+        top:315px;
         font-size: 16px;
         line-height: 26.08px;
     }
@@ -599,6 +599,8 @@ margin-top:92px;
         display:flex;
         margin:0 0 30px 0;
         flex-direction:column;
+        left:0;
+        top:0;
     }
 
     .artistas{
@@ -607,6 +609,8 @@ margin-top:92px;
         display:flex;
         margin:0 0 30px 0;
         flex-direction:column;
+        left:0;
+        top:0;
     }   
     
     .kiev-top{
@@ -617,6 +621,8 @@ margin-top:92px;
         position:relative;
         display: flex;
         margin:0 0 7px 0;
+        left:0;
+        top:0;
     }
     
     .kiev-bottom{
@@ -627,6 +633,8 @@ margin-top:92px;
         position:relative;
         display:flex;
         margin:0 0 7px 0;
+        left:0;
+        top:0;
     }
     
     .gales-top{
@@ -637,6 +645,8 @@ margin-top:92px;
         margin:16px 0 0 0;
         position:relative;
         display:flex;
+        left:0;
+        top:0;
     }
     
     .gales-bottom{
@@ -647,6 +657,8 @@ margin-top:92px;
         position:relative;
         display:flex;
         margin:10px 0 7px 0;
+        left:0;
+        top:0;
     }
     
     .berea-top{
@@ -657,6 +669,8 @@ margin-top:92px;
         position:relative;
         display:flex;
         margin:8px 0 0 0;
+        left:0;
+        top:0;
     }
     
     .berea-bottom{
@@ -667,6 +681,8 @@ margin-top:92px;
         position:relative;
         display:flex;
         margin:0 0 6px 0;
+        left:0;
+        top:0;
     }
     
     .burundi-top{
@@ -677,6 +693,8 @@ margin-top:92px;
         position:relative;
         display:flex;
         margin:30px 0 0 0;
+        left:0;
+        top:0;
     }
     
     .burundi-mid{
@@ -687,6 +705,8 @@ margin-top:92px;
         position:relative;
         display:flex;
         margin:25px 0 0 0;
+        left:0;
+        top:0;
     }
     
     .burundi-bottom{
@@ -697,6 +717,8 @@ margin-top:92px;
         position:relative;
         display:flex;
         margin:25px 0 4px 0;
+        left:0;
+        top:0;
     }
     
     .huanuco-top{
@@ -707,6 +729,8 @@ margin-top:92px;
         position:relative;
         display: flex;
         margin:15px 0 7px 0;
+        left:0;
+        top:0;
     }
     
     .huanuco-bottom{
@@ -717,6 +741,8 @@ margin-top:92px;
         position:relative;
         display:flex;
         margin:0 0 7px 0;
+        left:0;
+        top:0;
     }
     
     .image{
